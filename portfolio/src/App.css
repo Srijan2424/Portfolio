@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: white;
+}
+
+/* NAVBAR */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+  background: rgba(0,0,0,0.3);
+  backdrop-filter: blur(10px);
+}
+
+nav h2 {
+  margin: 0;
+}
+
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #cbd5f5;
+  font-weight: 500;
+}
+
+nav a.active {
+  color: #38bdf8;
+}
+
+/* MAIN CONTAINER */
+.container {
+  padding: 60px;
+}
+
+/* HERO SECTION */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-text {
+  max-width: 600px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  color: #cbd5f5;
+}
+
+/* BUTTONS */
+.btn {
+  padding: 10px 20px;
+  margin-right: 10px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #38bdf8;
+  color: black;
+  font-weight: bold;
+}
+
+/* CARDS */
+.card-container {
+  display: flex;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.card {
+  background: rgba(255,255,255,0.05);
+  padding: 20px;
+  border-radius: 12px;
+  flex: 1;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+.card h2 {
+  color: #38bdf8;
+}
