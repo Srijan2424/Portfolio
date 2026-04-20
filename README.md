@@ -50,7 +50,7 @@ The website is designed with a modern UI and deployed using GitHub Pages.
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Srijan2424/portfolio.git
 
 2. Navigate to the project:
 cd portfolio
@@ -69,7 +69,7 @@ npm start
 npm install gh-pages --save-dev
 
 2. Add this to package.json:
-"homepage": "https://your-username.github.io/portfolio"
+"homepage": "https://Srijan2424.github.io/portfolio"
 
 3. Add scripts:
 "predeploy": "npm run build",
