@@ -89,7 +89,7 @@ npm run deploy
 ---
 
 ## 🔗 Live Website
-https://your-username.github.io/portfolio
+https://Srijan2424.github.io/portfolio
 
 ---
 
@@ -102,6 +102,3 @@ GitHub: https://github.com/Srijan2424
 LinkedIn: https://linkedin.com/in/srijanchopra  
 
 ---
-
-## 📢 Note
-This project was created as part of an academic assignment and will also be used as a professional portfolio for internships and placements.
