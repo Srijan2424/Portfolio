@@ -33,17 +33,17 @@ The website is designed with a modern UI and deployed using GitHub Pages.
 
 ## 📂 Project Structure
 
-src/
-  components/
-      Navbar.js
-  pages/
-      Home.js
-      Projects.js
-  assets/
-      profile.jpg
-  App.js
-  App.css
-  index.js
+- src/
+  - components/
+      - Navbar.js
+  - pages/
+      - Home.js
+      - Projects.js
+  - assets/
+      - profile.jpg
+  - App.js
+  - App.css
+  - index.js
 
 ---
 
